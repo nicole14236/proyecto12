@@ -1,7 +1,16 @@
 .footer{
     background: rgb(2,0,36);
-    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,65,255,1) 23%); ;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgb(9, 52, 70) 23%) ; ;
 }
 .color-enlace{
     color: white;
+}
+.jumbotron{
+    background-image: url("../img/ocean.jpg");
+    background-size: cover;
+    color: white;
+
+}
+hr{
+    background-color: white;
 }
